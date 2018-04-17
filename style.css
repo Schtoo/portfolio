@@ -1,0 +1,16 @@
+.container{
+  background-color: #ef0d70;
+  color: white;
+  font-family: monospace;
+}
+.me{
+  width: 250px;
+  height: 200px;
+}
+#name {
+  display: inline-block;
+}
+#outro{
+  background-color: grey;
+  font: monospace;
+}
